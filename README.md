@@ -75,4 +75,4 @@ ovtapi.show()
 
 ## result
 
-<img src = "https://github.com/bedretdinov/overtakingAPI/show.jpg">
+<img src = "https://github.com/bedretdinov/overtakingAPI/show.png">
