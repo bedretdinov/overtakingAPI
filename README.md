@@ -1,13 +1,7 @@
 # overtakingAPI
 
-
-
-
 <pre>
 <code>
-
-
-
 y = [
     1,
     2,
